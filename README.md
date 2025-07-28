@@ -8,11 +8,11 @@ This is part of our ongoing **Data Analysis Series**, where each project is desi
 
 ## 📁 Repository Structure
 
-📦coffee-sales-analysis/
-├── Coffee_Shop_Sales_Analysis.ipynb # Python implementation
-├── Coffee_Sales_Analysis.sql # SQL implementation
-├── Coffee_Sales.csv # Raw dataset
-└── README.md # Project documentation
+- `Coffee_Shop_Sales_Analysis.ipynb` – Python implementation  
+- `Coffee_Sales_Analysis.sql` – SQL implementation  
+- `Coffee_Sales.csv` – Raw dataset  
+- `README.md` – Project documentation  
+
 
 
 ---
